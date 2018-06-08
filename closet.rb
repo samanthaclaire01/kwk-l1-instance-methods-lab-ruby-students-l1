@@ -4,7 +4,7 @@ closet = [
  ["sandals", "sneakers", "heels"]
 ]
  
-  puts closet [0][0]
+  #puts closet [0][0]
   kloset2 = {
 :tops => ["sweater", "shirt"],
 :bottoms => ["jeans", "shorts"],
