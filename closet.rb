@@ -3,5 +3,5 @@ closet = [
  ["pants", "shorts", "jeans", "shorts"]
  ["sandals", "sneakers", "heels"]
   ]
-  closet 
-  puts [2]
+ 
+  puts closet[2]
