@@ -4,4 +4,4 @@ closet = [
  ["sandals", "sneakers", "heels"]
 ]
  
-  puts closet [0][1]
+  puts closet [0][0]
