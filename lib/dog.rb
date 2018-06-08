@@ -14,9 +14,9 @@ def sit
 end
 end
 woof=Dog.new 
-woof.bark="woof"
-puts "This dogs bark is #{woof.bark}"
+woof.bark="woof!"
+puts  "#{woof.bark}"
 sitting=Dog.new 
 sitting.sit="sitting"
-puts "This dogs sit is #{sitting.sit}"
+puts "Thie dog is #{sitting.sit}"
 
