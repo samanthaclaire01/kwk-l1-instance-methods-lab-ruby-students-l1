@@ -8,8 +8,7 @@ class Dog
 
 end
 def sit
-  @this_dogs_sit
-end
+  
 end
 
 
