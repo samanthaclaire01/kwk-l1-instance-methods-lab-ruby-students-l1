@@ -14,7 +14,7 @@ def sit
 end
 end
 woof=Dog.new 
-woof.bark="Woof"
+woof.bark="woof"
 puts "This dogs bark is #{woof.bark}"
 sitting=Dog.new 
 sitting.sit="sitting"
