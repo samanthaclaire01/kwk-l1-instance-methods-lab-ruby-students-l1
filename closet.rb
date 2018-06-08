@@ -1,6 +1,6 @@
 closet = {
-[ "sweater", "shirt",  "tank"]
- ["pants", "shorts", "jeans", "shorts"]
+[ "sweater", "shirt",  "tank"],
+ ["pants", "shorts", "jeans", "shorts"],
  ["sandals", "sneakers", "heels"]
   }
  
