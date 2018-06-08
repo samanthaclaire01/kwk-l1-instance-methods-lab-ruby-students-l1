@@ -10,4 +10,4 @@ closet = [
 :bottoms => ["jeans", "shorts"],
 :footwear => ["sandals", "heels"]
   }
-  puts kloset2
+  puts kloset2{0}
