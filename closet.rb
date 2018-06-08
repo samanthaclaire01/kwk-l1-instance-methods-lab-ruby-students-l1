@@ -4,4 +4,4 @@ closet = {
  ["sandals", "sneakers", "heels"]
   }
  
-  puts closet[2]
+  puts closet [1]
