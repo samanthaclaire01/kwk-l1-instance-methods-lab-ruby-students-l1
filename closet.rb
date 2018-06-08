@@ -5,3 +5,9 @@ closet = [
 ]
  
   puts closet [0][0]
+  kloset2 = {
+:tops => ["sweater", "shirt"],
+:bottoms => ["jeans", "shorts"],
+:footwear => ["sandals", "heels"]
+  }
+  puts kloset2
