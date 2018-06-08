@@ -18,5 +18,5 @@ woof.bark="Woof!"
 puts  "#{woof.bark}"
 sitting=Dog.new 
 sitting.sit="sitting"
-puts "Thie dog is #{sitting.sit}"
+puts "The dog is #{sitting.sit}"
 
